@@ -13,13 +13,13 @@ body {
     font-family: 'Mali', cursive;
     text-shadow: 3px 3px 6px black;
     color: #FFFFFF;
-    padding: 100px 80px 0px 80px;
+    padding: 80px 80px 0px 80px;
 }
 
 #sec-1 p {
     font-family: 'Nunito', sans-serif;
     color: whitesmoke;
-    padding: 0px 80px 100px 80px;
+    padding: 0px 80px 50px 80px;
     text-align: left;
 }
 
@@ -34,5 +34,72 @@ body {
 }
 
 #sec-1 div {
-    padding-bottom: 40px;
+    padding-bottom: 50px;
+}
+
+.sec-2 h1 {
+    text-align: center;
+    padding-top: 80px;
+    font-size: 35px;
+    font-weight: 700;
+
+}
+
+.sec-2 p {
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+    font-family: 'Nunito', sans-serif;
+    color: #2624249c;
+}
+
+.sec-2-money {
+    text-align: center;
+    padding-top: 60px;
+}
+
+.sec-2-money p {
+    display: inline;
+    background-color: #b5b0a972;
+    padding: 25px 40px;
+    border-radius: 5px;
+    color: #2624249c;
+    font-size: 20px;
+    font-weight: 700;
+
+}
+
+#money-200 {
+    border: 2px solid tomato;
+    color: tomato;
+
+}
+
+.sec-2-other {
+    padding-top: 70px;
+    padding-left: 45%;
+}
+
+#sec-2-hr {
+    width: 600px;
+    padding-left: 28%;
+    padding-bottom: 20px;
+}
+
+.sec-2-don {
+
+    margin-left: 44%;
+    margin-right: 43%;
+    background-color: tomato;
+    color: white;
+    padding: 15px 30px;
+    border-radius: 5px;
+}
+
+.sec-2-don a {
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    text-align: center;
+
 }
