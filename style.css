@@ -1,0 +1,38 @@
+body {
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+}
+
+#sec-1 {
+    background-image: url(images/palestine1.jpg);
+}
+
+#sec-1 h1 {
+    font-size: 50px;
+    font-weight: 700;
+    font-family: 'Mali', cursive;
+    text-shadow: 3px 3px 6px black;
+    color: #FFFFFF;
+    padding: 100px 80px 0px 80px;
+}
+
+#sec-1 p {
+    font-family: 'Nunito', sans-serif;
+    color: whitesmoke;
+    padding: 0px 80px 100px 80px;
+    text-align: left;
+}
+
+#sec-1 a {
+    text-decoration: none;
+    margin-left: 45%;
+    background-color: tomato;
+    color: white;
+    font-weight: 700;
+    padding: 15px 30px;
+    border-radius: 5px;
+}
+
+#sec-1 div {
+    padding-bottom: 40px;
+}
