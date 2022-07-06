@@ -92,7 +92,7 @@ body {
     margin-right: 43%;
     background-color: tomato;
     color: white;
-    padding: 15px 30px;
+    padding: 15px 33px;
     border-radius: 5px;
 }
 
@@ -101,5 +101,75 @@ body {
     color: white;
     font-weight: 700;
     text-align: center;
+    padding-bottom: 100px;
 
+}
+
+.flexible {
+    display: flex;
+    padding-bottom: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.sec-3 {
+    width: 100%;
+    height: 300px;
+    padding-left: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: justify;
+    border-radius: 10px;
+    box-shadow: 30px 10px 1000px gray;
+
+}
+
+#sec-3-a {
+    background-color: #EDF5F6;
+}
+
+#sec-3-a img {
+    width: 60px;
+    padding: 20px 10px 0px 10px;
+}
+
+#sec-3-a h2 {
+    padding: 5px 10px 0px 10px;
+}
+#sec-3-a p {
+    padding: 5px 20px 0px 10px;
+    color: #8B8D8D;
+}
+
+#sec-3-b {
+    background-color: #FFEEEE;
+}
+
+#sec-3-b img {
+    width: 60px;
+    padding: 20px 10px 0px 10px;
+}
+#sec-3-b h2 {
+    padding: 5px 10px 0px 10px;
+}
+#sec-3-b p {
+    padding: 5px 20px 0px 10px;
+    color: #8B8D8D;
+}
+
+#sec-3-c {
+    background-color: #FFF4D6;
+}
+
+#sec-3-c img {
+    width: 60px;
+    padding: 20px 10px 0px 10px;
+}
+#sec-3-c h2 {
+    padding: 5px 10px 0px 10px;
+}
+
+#sec-3-c p {
+    padding: 5px 20px 0px 10px;
+    color: #8B8D8D;
 }
