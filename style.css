@@ -224,3 +224,26 @@ body {
     text-align: center;
     color: white;
 }
+
+#extra {
+    background-image: url(images/palestine3.jpg);
+    display: flex;
+
+
+}
+
+#extra img {
+    width: 100%;
+    border: 20px solid white;
+}
+
+#half-width {
+    width: 50%;
+    padding-left: 50px;
+    padding-right: 40px;
+    padding-top: 60px;
+    padding-bottom: 50px;
+    background-color: #65e265ad;
+    font-size: 20px;
+
+}
